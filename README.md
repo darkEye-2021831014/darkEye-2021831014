@@ -9,13 +9,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashraful-islam-1413a5355)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashrafulislamdarkeye@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-darkEye-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/darkEye)
-[![CodeChef](https://img.shields.io/badge/CodeChef-voideye-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/voideye)
+[![CodeChef](https://img.shields.io/badge/CodeChef-voideye-4079DA?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/voideye)
 
 </div>
 
 ---
-
-<!-- — CGPA `3.90/4.00` -->
 
 ### 🧭 About Me
 
@@ -96,8 +94,8 @@ AI-assisted travel planning platform generating personalized itineraries based o
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=darkEye-2021831014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkEye-2021831014&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=darkEye-2021831014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darkEye-2021831014&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkEye-2021831014&theme=tokyonight&hide_border=true" />
 
